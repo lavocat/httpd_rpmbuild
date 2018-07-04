@@ -1,0 +1,4 @@
+version: '3'
+services:
+  rpmbuild:
+    image: "rpmbuild:1"
